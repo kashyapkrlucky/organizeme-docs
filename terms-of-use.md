@@ -1,6 +1,6 @@
 # Terms of Use for OrganizeMe
 
-Effective Date: April 22, 2025
+Effective Date: April 24, 2025
 
 Welcome to OrganizeMe. By using our app, you agree to the following terms:
 
@@ -23,6 +23,7 @@ We reserve the right to suspend or terminate access to the app for violating our
 ## 5. Limitation of Liability
 
 We are not liable for:
+
 - Loss of data
 - Indirect or consequential damages from app usage
 
