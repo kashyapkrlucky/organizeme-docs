@@ -2,8 +2,8 @@
 
 This repository hosts the legal documents for the **OrganizeMe** mobile application, including:
 
-- [Privacy Policy](https://<your-username>.github.io/organizeme-docs/privacy-policy.html)
-- [Terms of Use](https://<your-username>.github.io/organizeme-docs/terms-of-use.html)
+- [Privacy Policy](./privacy-policy.md)
+- [Terms of Use](./terms-of-use.md)
 
 These documents are publicly accessible via GitHub Pages and are intended to comply with Google Play Store and general data protection regulations.
 
